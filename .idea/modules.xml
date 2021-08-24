@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/POINT OF SALE APPLICATION.iml" filepath="$PROJECT_DIR$/.idea/POINT OF SALE APPLICATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos-simulator/05-pos-simulator/pos-simulator.iml" filepath="$PROJECT_DIR$/pos-simulator/05-pos-simulator/pos-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos-validator/09-pos-validator/pos-validator.iml" filepath="$PROJECT_DIR$/pos-validator/09-pos-validator/pos-validator.iml" />
+    </modules>
+  </component>
+</project>
