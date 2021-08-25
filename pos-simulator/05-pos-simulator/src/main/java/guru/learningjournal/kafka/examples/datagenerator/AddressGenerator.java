@@ -36,7 +36,7 @@ class AddressGenerator {
     }
 
     private AddressGenerator() {
-        final String DATAFILE = "src/main/resources/data/address.json";
+        final String DATAFILE = "/home/shemmuchemi/IdeaProjects/Point Of Sale Application/pos-simulator/05-pos-simulator/src/main/resources/data/address.json";
         final ObjectMapper mapper;
         random = new Random();
         mapper = new ObjectMapper();

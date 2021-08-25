@@ -32,7 +32,7 @@ class ProductGenerator {
     }
 
     private ProductGenerator() {
-        String DATAFILE = "src/main/resources/data/products.json";
+        String DATAFILE = "/home/shemmuchemi/IdeaProjects/Point Of Sale Application/pos-simulator/05-pos-simulator/src/main/resources/data/products.json";
         ObjectMapper mapper = new ObjectMapper();
         random = new Random();
         qty = new Random();

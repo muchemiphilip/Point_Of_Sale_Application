@@ -3,6 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/pos-simulator-completed/05-pos-simulator/pom.xml" />
         <option value="$PROJECT_DIR$/pos-simulator/05-pos-simulator/pom.xml" />
         <option value="$PROJECT_DIR$/pos-validator/09-pos-validator/pom.xml" />
       </list>

@@ -41,7 +41,7 @@ public class InvoiceGenerator {
     }
 
     private InvoiceGenerator() {
-        String DATAFILE = "src/main/resources/data/Invoice.json";
+        String DATAFILE = "/home/shemmuchemi/IdeaProjects/Point Of Sale Application/pos-simulator/05-pos-simulator/src/main/resources/data/Invoice.json";
         ObjectMapper mapper;
         invoiceIndex = new Random();
         invoiceNumber = new Random();
